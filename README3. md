@@ -1,0 +1,23 @@
+# veda-technologies-internship
+# DAY 3 
+# Veda Technologies – Day 3 Sales Dashboard
+
+## Project
+An interactive Power BI dashboard exploring retail sales by product category, region, and time period.
+
+## Dashboard features
+- Total Sales and Total Profit KPI cards
+- Sales by Category and Sales by Region charts
+- Monthly Sales Trend
+- Region and Order Date slicers
+
+## Dataset
+Sample Superstore dataset from Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+## Tools
+- Microsoft Power BI Desktop
+- Power Query
+- DAX
+
+## Notes
+Created as a practice project for the Veda Technologies Day 3 task.
